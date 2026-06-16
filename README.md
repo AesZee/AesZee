@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aes Lee
+# Hi, I'm Seungjune Aes Lee
 
 ### Robotics, AI, XR, and human-centered systems
 ### 로보틱스, AI, XR, 사람 중심 시스템을 만듭니다
