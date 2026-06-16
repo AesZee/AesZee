@@ -165,8 +165,25 @@ Tech: `Python`, `AI`
 ## Toolbox
 ## 기술 도구
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,unity,ros,github,docker" alt="Tech stack icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,ts,js,html,css,bash,cmake" alt="Languages and build tools" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=ros,unity,react,vite,fastapi,sqlite,supabase,firebase,docker,github,arduino" alt="Frameworks, platforms, and tools" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS%202-Humble-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2 Humble" />
+  <img src="https://img.shields.io/badge/Nav2-Navigation-0B6E4F?style=flat-square" alt="Nav2" />
+  <img src="https://img.shields.io/badge/SLAM-Mapping-4B5563?style=flat-square" alt="SLAM" />
+  <img src="https://img.shields.io/badge/Isaac%20Sim-NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Sim" />
+  <img src="https://img.shields.io/badge/TurtleBot4-Robotics-0A66C2?style=flat-square" alt="TurtleBot4" />
+  <img src="https://img.shields.io/badge/Doosan%20M0609-Cobot-1E40AF?style=flat-square" alt="Doosan M0609" />
+  <img src="https://img.shields.io/badge/YOLO-Vision-111827?style=flat-square" alt="YOLO" />
+  <img src="https://img.shields.io/badge/RealSense-Depth%20Camera-0071C5?style=flat-square&logo=intel&logoColor=white" alt="Intel RealSense" />
+  <img src="https://img.shields.io/badge/OAK--D-RGB%2FDepth-5B21B6?style=flat-square" alt="OAK-D" />
+  <img src="https://img.shields.io/badge/MQTT-Messaging-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" />
+  <img src="https://img.shields.io/badge/Needle%20Engine-WebXR-2F855A?style=flat-square" alt="Needle Engine" />
+  <img src="https://img.shields.io/badge/WebXR-Spatial%20Web-0F766E?style=flat-square" alt="WebXR" />
 </p>
 
 ```text
