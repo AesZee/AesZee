@@ -13,21 +13,23 @@
 
 </div>
 
-I build systems where robots, simulations, AR interfaces, and people meet. My recent work focuses on realistic robot simulation with ROS 2 and Isaac Sim, and spatial information delivery through AR/WebXR interfaces.
+I build systems where robots, simulations, AR interfaces, and people meet. My recent work focuses on realistic robot simulation with ROS 2 and Isaac Sim, and spatial information delivery through AR/WebXR interfaces. I value collaborative development: turning feedback, supervision, testing notes, and shared iteration into working technical systems.
 
-로봇, 시뮬레이션, AR 인터페이스, 사람이 만나는 지점을 다룹니다. 최근에는 ROS 2와 Isaac Sim 기반의 현실적인 로봇 시뮬레이션, 그리고 AR/WebXR을 활용한 공간 정보 전달 인터페이스에 집중하고 있습니다.
+로봇, 시뮬레이션, AR 인터페이스, 사람이 만나는 지점을 다룹니다. 최근에는 ROS 2와 Isaac Sim 기반의 현실적인 로봇 시뮬레이션, 그리고 AR/WebXR을 활용한 공간 정보 전달 인터페이스에 집중하고 있습니다. 피드백, 지도, 테스트 기록, 반복적인 협업 과정을 실제로 동작하는 기술 시스템으로 연결하는 개발 방식을 중요하게 생각합니다.
 
 Currently exploring:
 
 - Robot simulation pipelines with Isaac Sim, TurtleBot4, ROS 2 Humble, SLAM, Nav2, and sensor integration
 - AR and WebXR interfaces for infrastructure inspection and layered information delivery
 - Human-machine interaction patterns for physical and simulated robotics systems
+- Collaborative workflows that combine implementation, testing, documentation, and review
 
 현재 관심 분야:
 
 - Isaac Sim, TurtleBot4, ROS 2 Humble, SLAM, Nav2, 센서 통합을 활용한 로봇 시뮬레이션 파이프라인
 - 인프라 점검과 계층적 정보 전달을 위한 AR/WebXR 인터페이스
 - 실제 로봇과 시뮬레이션 로봇을 위한 인간-기계 상호작용 패턴
+- 구현, 테스트, 문서화, 리뷰가 함께 움직이는 협업 개발 방식
 
 ## Featured Projects
 ## 대표 프로젝트
@@ -37,6 +39,18 @@ Currently exploring:
 TurtleBot4 simulation project built around Isaac Sim 4.5 and ROS 2 Humble.
 
 Isaac Sim 4.5와 ROS 2 Humble을 기반으로 한 TurtleBot4 시뮬레이션 프로젝트입니다.
+
+Collaboration context:
+
+- Developed through iterative implementation, testing, and documentation cycles
+- Public contribution history includes work from `AesZee` and `claude`
+- Emphasis on reproducible verification so future collaborators can validate robotics behavior quickly
+
+협업 맥락:
+
+- 구현, 테스트, 문서화가 반복되는 방식으로 개발
+- 공개 contributor 기록 기준 `AesZee`와 `claude`의 작업이 포함됨
+- 이후 협업자가 로봇 동작을 빠르게 검증할 수 있도록 재현 가능한 verification 흐름을 중점적으로 구성
 
 Highlights:
 
@@ -63,6 +77,18 @@ Tech: `Python`, `ROS 2 Humble`, `Isaac Sim 4.5`, `TurtleBot4`, `SLAM`, `Nav2`, `
 Bachelor's graduation project in Creative Technology at the University of Twente: an AR-based graphical user interface prototype for bridge inspection workflows.
 
 University of Twente Creative Technology 학사 졸업 프로젝트로, 교량 점검 업무를 위한 AR 기반 그래픽 사용자 인터페이스 프로토타입입니다.
+
+Collaboration context:
+
+- Created as an academic graduation project under supervision at the University of Twente
+- Developed around infrastructure inspection workflows, with feedback and review shaping the interaction design
+- Project documentation credits supervision by Dr. D.V. Le Viet Duc
+
+협업 맥락:
+
+- University of Twente에서 진행한 학사 졸업 프로젝트로 제작
+- 인프라 점검 업무 흐름을 중심으로 피드백과 리뷰를 반영하며 인터랙션 설계를 발전시킴
+- 프로젝트 문서에는 Dr. D.V. Le Viet Duc 지도교수의 supervision이 명시되어 있음
 
 Highlights:
 
