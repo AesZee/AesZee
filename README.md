@@ -102,7 +102,9 @@ Contribution focus:
 기여 내용:
 
 - ROS 2 패키지 통합 및 task flow 문서화
-- STT, DB, TTS, 로봇 연동 요약과 운영 노트 작성
+- STT, DB, TTS, 로봇 연동
+- Data Collecting & AI modeling
+- Conveyor Belt Control
 - 로보틱스, perception, backend 상태 동기화, 웹 UI 통합 흐름에 참여
 
 Tech: `Python`, `TypeScript`, `ROS 2`, `YOLO`, `FastAPI/Supabase`, `Doosan M0609`, `RealSense`, `Arduino`
@@ -124,6 +126,8 @@ Contribution focus:
 - ROS 2 workspace 개발 및 통합
 - navigation, perception event publishing, shared interface, bringup 구조 작업
 - 팀 단위 로보틱스 패키지 구조화에 참여
+- Computer Vision based Detection
+- Extracting Coordinates from the detected objects 
 
 Tech: `Python`, `ROS 2`, `Nav2`, `SLAM`, `ament_python`, `ament_cmake`, `Shell`, `CMake`
 
@@ -143,6 +147,8 @@ Contribution focus:
 
 - collaborator 활동, feature/fix branch, pull request 작업
 - URDF/path 환경 수정 및 ROS 2 통합 지원
+- Omniverse 에셋 환경
+- Nucleus Server 관리 
 - 스마트 팩토리 로보틱스 워크플로우 탐색
 
 Tech: `Python`, `C++`, `ROS 2`, `Nav2`, `BehaviorTree.CPP`, `MQTT`, `FastAPI`, `SQLite`, `Isaac Sim`
@@ -151,8 +157,9 @@ Tech: `Python`, `C++`, `ROS 2`, `Nav2`, `BehaviorTree.CPP`, `MQTT`, `FastAPI`, `
 
 Public contribution history shows Python-based AI project work.
 
-공개 contribution 기록상 Python 기반 AI 프로젝트 참여 이력이 확인됩니다.
-
+- 한자 8가지를 CNN을 기반으로 분류
+- 실시간 분류에 따른, 다른 시각화 혹은 Gamified Interaction
+  
 Tech: `Python`, `AI`
 
 ## Toolbox
